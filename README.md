@@ -1,0 +1,1 @@
+This is my first attempt using Git and GitHub. If you're reading this, it means it went smooth.
